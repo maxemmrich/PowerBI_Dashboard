@@ -1,6 +1,6 @@
 # PowerBI_Dashboard
 
-For this project I downloaded a sample dataset of a bike manufacturer operating world wide. My goal was to create a useful dashboard for top management, allowing them to have a broad overview of international sales and business development. However, they should also be able to drilldown and -through into more specific aspects such as regional performances and customer views.
+For this project I downloaded a sample dataset of a bike manufacturer operating world wide. My goal was to create a useful dashboard for top management, allowing them to have a broad overview of international sales and business development. However, they should also be able to drilldown and drillthrough into more specific data about regional performances and customer views.
 
 **Here are my steps:**
 
