@@ -10,7 +10,7 @@ I started with formulating some user stories to set the goal and requirement of 
 <br>
 
 
-Based on that, I performed some simple queries out of SQL Server to use the data within Power BI. All my queries can be found in the [repository](https://github.com/maxemmrich/PowerBI_Dashboard).
+Based on that, I performed some simple queries out of SQL Server to be able to use the data within Power BI. All my queries can be found in the [repository](https://github.com/maxemmrich/PowerBI_Dashboard).
 
 
 ![](/images/sql_query.JPG)
