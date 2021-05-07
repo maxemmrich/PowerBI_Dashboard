@@ -31,7 +31,7 @@ I built a data model within Power BI
 <br>
 
 
-I started building the Power BI dashbard. The dashboard uses several measures using DAX Functions. The user can drilldown certain data and drillthrough to the get more details on countries and customers using drilldown buttons. -> The pbix file can be found [here](https://maxemmrich.github.io/PowerBI_Dashboard/)
+I started building the Power BI dashbard. The dashboard uses several measures using DAX Functions. The user can drilldown certain data and drillthrough to the get more details on countries and customers using drilldown buttons. -> The pbix file can be found [here](https://maxemmrich.github.io/PowerBI_Dashboard/).
 <br>
 
 ![](/images/DashboardOverview.JPG)
