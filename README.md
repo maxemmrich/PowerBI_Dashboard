@@ -4,7 +4,7 @@ For this project I downloaded a sample dataset of a bike manufacturer operating 
 
 **Here are my steps:**
 
-I started with formulating some user stories to set the goal and requirement of the project
+I started with formulating some user stories to set the goals and requirements for the project
 
 ![](/images/user_stories.JPG)
 <br>
